@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(44, 61, 24);
+}
+
+body {
+    background: linear-gradient(180deg, #ffd7c1, rgb(220, 252, 210));
+    height: 100vh;
+}
